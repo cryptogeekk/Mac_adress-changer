@@ -4,10 +4,10 @@ A media access control address of a device is a unique identifier assigned to a 
 This mac_address changer helps in performing attacks like MAC Spoofing on any network. This program works for any network adapter.
 
 To change mac address you can use command
-  -> python Mac_address-changer -i wlan0 --m 00:11:22:33:44:55
+-> python Mac_address-changer -i wlan0 --m 00:11:22:33:44:55
   
-  for help, enter command
-  ->python Mac_address-changer --help
+for help, enter command
+->python Mac_address-changer --help
     
 
 
